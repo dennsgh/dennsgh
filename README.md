@@ -15,7 +15,7 @@ You might have seen me pretend to be a music producer under the alias `dennsgh`.
     - C/C++ `💾` 
     - Bash `🖥️` 
     - Go `🟦`
-- 🌐 **Polyglot Palette**: 🇨🇳 🇩🇪 🇰🇷 🇮🇩 🇯🇵 🇺🇸
+- 🌐 **Polyglot Palette**: 🇩🇪 🇰🇷 🇮🇩 🇯🇵 🇺🇸 🇨🇳
 
 ## 📚 Projects & Activities
 
