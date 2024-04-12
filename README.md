@@ -14,8 +14,8 @@ You might have seen me pretend to be a music producer under the alias `dennsgh`.
     - Python `🐍` 
     - C/C++ `💾` 
     - Bash `🖥️` 
-    - Go
-- 🌐 **Polyglot Palette**: Fluent in English, German, Korean, with Indonesian being my native tongue.
+    - Go `🟦`
+- 🌐 **Polyglot Palette**: 🇨🇳 🇩🇪 🇰🇷 🇮🇩 🇯🇵 🇺🇸
 
 ## 📚 Projects & Activities
 
