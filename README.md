@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a DevOps Engineer platform engineering by trade with roots in Electrical and Information Engineering, with focus on Embedded and Computer Systems, Machine Learning, and Software Development. 
+I'm a DevOps Engineer by trade with roots in Electrical and Information Engineering.
 
 You might have seen me pretend to be a music producer under the alias `dennsgh`.
 
