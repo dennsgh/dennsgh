@@ -2,8 +2,6 @@
 
 I'm a DevOps Engineer by trade with roots in Electrical and Information Engineering.
 
-You might have seen me pretend to be a music producer under the alias `dennsgh`.
-
 ## Quick Bits
 
 - 🎓 **Academic Backbone**: M.Sc Electrical and Information Engineering @TUM.
@@ -26,5 +24,5 @@ You might have seen me pretend to be a music producer under the alias `dennsgh`.
 ---
 
 
-🎵 **Musical Expedition**: Checkout my music [here](https://www.youtube.com/c/dennsgh).
+🎵 **Musical Expedition**: Checkout my music [here](https://youtube.com/@denmarcg).
 
