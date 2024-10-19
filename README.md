@@ -19,7 +19,6 @@ I'm a DevOps Engineer by trade with roots in Electrical and Information Engineer
 
 - **[`xoadmin`](https://github.com/elnissi-io/xoadmin)**: Xen Orchestra Admin Toolkit - Configurator/CLI to configure Xen Orchestra.
 - **[`avaris`](https://github.com/avyr-io/avaris)**: Modular Task Engine - Write simple scripts and easy to setup task executors.
-- **[`epha`](https://github.com/elnissi-io/epha)**: k8s resource language - Simplifying deployments and chart creations.
 
 ---
 
