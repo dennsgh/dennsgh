@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a DevOps Engineer by trade with roots in Electrical and Information Engineering.
+I'm a DevOps / Software Engineer by trade with roots in Electrical and Information Engineering.
 
 ## Quick Bits
 
@@ -15,13 +15,8 @@ I'm a DevOps Engineer by trade with roots in Electrical and Information Engineer
     - Go `🟦`
 - 🌐 **Polyglot Palette**: 🇩🇪 🇰🇷 🇮🇩 🇯🇵 🇺🇸 🇨🇳
 
-## 📚 Projects & Activities
-
-- **[`xoadmin`](https://github.com/elnissi-io/xoadmin)**: Xen Orchestra Admin Toolkit - Configurator/CLI to configure Xen Orchestra.
-- **[`avaris`](https://github.com/avyr-io/avaris)**: Modular Task Engine - Write simple scripts and easy to setup task executors.
-
 ---
 
 
-🎵 **Musical Expedition**: Checkout my music [here](https://youtube.com/@denmarcg).
+🎵 **Musical Work**: Checkout my music [here](https://youtube.com/@denmarcg).
 
