@@ -6,8 +6,8 @@ I'm a DevOps / Software Engineer by trade with roots in Electrical and Informati
 
 - 🎓 **Academic Backbone**: M.Sc Electrical and Information Engineering @TU Munich
 - 🛠 **Tech Toolkit**:
-  - ☁ Platforms: AWS, GCP, Xen XCP-ng
-  - 🎡 Orchestration: Ansible, Terraform, Rancher
+  - ☁ Platforms: AWS, GCP, Xen XCP-ng, Proxmox, RH OpenShift, Rancher
+  - 🎡 Orchestration: Ansible, Terraform
   - 💻 Languages: 
     - Python `🐍` 
     - C/C++ `💾` 
