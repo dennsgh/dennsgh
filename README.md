@@ -2,9 +2,9 @@
 
 I'm a DevOps / Software Engineer by trade with roots in Electrical and Information Engineering.
 
-## Quick Bits
+## Background
 
-- 🎓 **Academic Backbone**: M.Sc Electrical and Information Engineering @TUM.
+- 🎓 **Academic Backbone**: M.Sc Electrical and Information Engineering @TU Munich
 - 🛠 **Tech Toolkit**:
   - ☁ Platforms: AWS, GCP, Xen XCP-ng
   - 🎡 Orchestration: Ansible, Terraform, Rancher
