@@ -1,10 +1,10 @@
-# Hi there 👋
+# Hi 👋
 
-I'm a Lead DevOps / Software Engineer by trade with roots in Electrical and Information Engineering.
+Lead DevOps / Software Engineer and music producer by trade.
 
 ## Background
 
-- 🎓 **Academic Backbone**: M.Sc Electrical and Information Engineering @TU Munich
+- 🎓 **Academic Background**: M.Sc Electrical and Information Engineering @TU Munich
 - 🛠 **Tech**:
   - ☁ Platforms: AWS, GCP, Xen XCP-ng, Proxmox, RH OpenShift, Rancher
   - 🎡 Orchestration: Ansible, Terraform
@@ -13,7 +13,8 @@ I'm a Lead DevOps / Software Engineer by trade with roots in Electrical and Info
     - C/C++ `💾` 
     - Bash `🖥️` 
     - Go `🟦`
-- 🌐 **Polyglot Palette**: 🇩🇪 🇰🇷 🇮🇩 🇯🇵 🇺🇸 🇨🇳
+    
+- 🌐 **Talk to me in**: 🇩🇪 🇰🇷 🇮🇩 🇯🇵 🇺🇸 🇨🇳
 
 ---
 
