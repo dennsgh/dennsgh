@@ -13,8 +13,9 @@ Lead DevOps / Software Engineer and music producer by trade.
     - C/C++ `💾` 
     - Bash `🖥️` 
     - Go `🟦`
+
     
-- 🌐 **Talk to me in**: 🇩🇪 🇰🇷 🇮🇩 🇯🇵 🇺🇸 🇨🇳
+- 🌐 **talk to me in**: 🇩🇪 🇰🇷 🇮🇩 🇯🇵 🇺🇸 🇨🇳
 
 ---
 
