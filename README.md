@@ -20,5 +20,5 @@ Lead DevOps / Software Engineer and music producer by trade.
 ---
 
 
-🎵 **Musical Work**: Checkout my music [here]([https://youtube.com/@denmarcg](https://www.youtube.com/channel/UCQDikB38LDQ-2HcrDsOhXsQ)).
+🎵 **Musical Work**: Checkout my music [here](https://www.youtube.com/channel/UCQDikB38LDQ-2HcrDsOhXsQ).
 
